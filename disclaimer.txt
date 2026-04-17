@@ -1,0 +1,16 @@
+DISCLAIMER
+
+This software is intended for research and educational use only.
+
+Results produced by this software are computational predictions and
+have not been experimentally validated.
+
+The author makes no guarantees regarding:
+- Accuracy of results
+- Biological activity
+- Safety of compounds
+
+Use at your own risk.
+
+The author is not responsible for misuse or any consequences arising
+from use of this software.

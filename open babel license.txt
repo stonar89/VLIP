@@ -1,0 +1,19 @@
+Open Babel
+
+Copyright (C) The Open Babel project
+
+Licensed under the GNU General Public License (GPL), version 2 or later.
+
+https://openbabel.org
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see:
+
+https://www.gnu.org/licenses/gpl-2.0.html

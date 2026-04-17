@@ -1,0 +1,10 @@
+Matplotlib
+
+Copyright (c) Matplotlib Development Team
+
+Licensed under the Matplotlib license (BSD-style).
+
+https://matplotlib.org/stable/users/project/license.html
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met...
